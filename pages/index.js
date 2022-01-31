@@ -22,13 +22,13 @@ export default function Home() {
         <Link href="/facts" >
           <a className={styles.card}>
             <h2>Pegion Facts;</h2>
-            <p>Find information about Pegion Facts.</p>
+            <p>Click here to get information about Pegion Facts.</p>
           </a>
           </Link>
           <Link href="/history" >
           <a className={styles.card}>
             <h2>Pegion History;</h2>
-            <p>Find information about Pegion History.</p>
+            <p>Click here to get information about Pegion History.</p>
           </a>
           </Link>
         </div>
