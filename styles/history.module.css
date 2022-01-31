@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(1,100, 10, 1);
+    text-decoration: underline;
+}
+
+.header:hover{
+    color: salmon;
+}
+
+.paragraphs{
+    display: flex;
+    font-style: oblique;
+    text-align: justify;
+    padding: 5px 20px 5px 20px;
+}
+
+.mainDiv{
+    display: flexbox;
+    background-color: rgb(222, 247, 238);
+    margin: 15px 10px 15px 10px;
+
+}
+
+.paraDiv{
+    display: flexbox;
+    border: 1px solid #e6e6e6;
+    margin: 15px 10px 15px 10px;
+}
+
+.post{
+    display: flexbox;
+    font-style: oblique;
+    border: 1px solid #e6e6e6;
+    margin: 15px 10px 15px 10px;
+}

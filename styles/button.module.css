@@ -1,0 +1,16 @@
+.btn{
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px 5px 10px 5px;
+    margin-left: 5px;
+}
+
+.like:hover{
+    background-color: darkgreen;
+    color: honeydew;
+}
+
+.dislike:hover{
+    background-color: rgba(255,50,10,1);
+    color: honeydew;
+}

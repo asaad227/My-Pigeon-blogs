@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+   margin-left: 20%;
+  }
+  
+  .header {
+    display: flex;
+  }
+  
+  .avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 100%;
+    background-color: lightcoral;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+  }
+  .avatar:hover{
+    background-color: silver;
+    color: black;
+  }
+  
+  .name {
+    margin-left: 1em;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0.5em 1em;
+  }
+
+ 
