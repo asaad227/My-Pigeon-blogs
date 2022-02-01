@@ -8,8 +8,6 @@ npm run dev
 # or
 yarn dev
 
-This is the simple blog post made by Next.js.
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deploy
