@@ -1,5 +1,5 @@
 
-####### Interactive Blog Post ###### 
+### Interactive Blog Post ### 
 
 ## Getting Started
 run locally 
